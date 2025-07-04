@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fawry_ECommerce_Task
+namespace Fawry_ECommerce_Task.Models
 {
     public class CartItem
     {
